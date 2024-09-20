@@ -1,8 +1,16 @@
+# Что это?
+
 Решение задачи для платформы [Stepik](https://stepik.org) на курсе [Web-технологии: начальный уровень](https://stepik.org/lesson/655594/step/5?unit=652533)
 
-![Иллюстрация к проекту](https://github.com/Naivrick/stepik_solution_6.3\screenshots\1.jpg)
+# Задача
 
-## [Посетить решение](https://naivrick.github.io/stepik_solution_6.3/)
+Пользователь открывает страницу, вводит имя и фамилию, нажимает "Отправить". Внизу появляется текст с приветствием. Затем можно изменить фамилию или имя, вновь нажать "Отправить" - приветствие обновится.
 
-![Иллюстрация к проекту](https://github.com/Naivrick/stepik_solution_6.3\screenshots\2.jpg)
-![Иллюстрация к проекту](https://github.com/Naivrick/stepik_solution_6.3\screenshots\3.jpg)
+# Решение
+
+<img src="screenshots\1.jpg" width="512" height="512">
+
+## [Посетить решение (click me!)](https://naivrick.github.io/stepik_solution_6.3/)
+
+<img src="screenshots\2.jpg" width="256" height="256">
+<img src="screenshots\3.jpg" width="256" height="256">
